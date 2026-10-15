@@ -1,0 +1,7 @@
+title: "Deck Manager"
+tooltip: "Inspect managed layouts, select their generated elements, or safely remove an owned layout."
+author: "RESIDENTIALTOOLS"
+min_revit_version: 2025
+max_revit_version: 2027
+engine:
+  clean: true

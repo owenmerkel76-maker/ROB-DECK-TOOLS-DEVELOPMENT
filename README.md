@@ -25,7 +25,7 @@ This is a **field-test build**. All nine current tools and shared code were revi
 
 Deck Designer coordinates boards, one/two perimeter borders, clipped breaker borders, angled decking, native joists/solid blocking, clips, eligible Simpson hardware and freestanding two-beam/post supports. Its five tabs are Decking, Framing, Hardware, Supports, Preview & clips. Joist Builder shares the engine. Managed rebuild preserves source Floors and unrelated elements. Stairs/railings are separately managed native prototypes.
 
-This update adds searchable joist selection, persistent blocking-follow behavior, accessible hardware lookup while unrelated fields are unfinished, labeled accessory forms, live Manager inspection and profile/material-separated board estimates with kerf/end trim. Original Lumber Library/Hello World files retain their preservation hashes.
+This update adds searchable joist selection, persistent blocking-follow behavior, accessible hardware lookup while unrelated fields are unfinished, labeled accessory forms, live Manager inspection and profile/material-separated board estimates with kerf/end trim. Original Lumber Library/Hello World runtime files retain their preservation hashes. Public diagnostic/documentation paths and private model names are redacted; runtime bytes match the validated live build.
 
 ## Reports and limits
 

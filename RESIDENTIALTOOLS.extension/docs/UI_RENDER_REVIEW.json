@@ -1,0 +1,11 @@
+{
+  "date": "2026-10-14",
+  "status": "PASS",
+  "screens_rendered": 8,
+  "native_revit_execution": "NOT RUN",
+  "event_handlers": "Excluded from offscreen render; logic covered separately by local tests",
+  "source_hashes": {
+    "resources/ResidentialSettings.xaml": "b26d47ea5fcc3e191b13dbc01e96d1cdd6b9460bc6663fbbd7a79ce7b4a8a700",
+    "resources/ToolOptions.xaml": "e948d0386c531d0a986f2966ef85922b99c20345b90ba73674ed03540ba52e0b"
+  }
+}

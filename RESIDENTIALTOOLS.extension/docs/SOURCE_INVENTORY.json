@@ -1,0 +1,133 @@
+{
+  "inspected_read_only": [
+    {
+      "path": "unavailable-legacy-source-01",
+      "sha256": "7aafa69f8ea66bbd7be4ef4a053c451297470f70805fb44828c19ab725e91b87"
+    },
+    {
+      "path": "unavailable-legacy-source-02",
+      "sha256": "e04d97299cf65f6745e96f6756cea85ee7d06b715a2d5f994fd0ead979fe283e"
+    },
+    {
+      "path": "unavailable-legacy-source-03",
+      "sha256": "9ea8aeb1934a1d2602b25409defa3e9e2a652c2793bb7f8a35808ae966772aa9"
+    },
+    {
+      "path": "unavailable-legacy-source-04",
+      "sha256": "e07212bd8c367505cf396927f364e350a700a2e15ec748728a5a688a2f7e4e4c"
+    },
+    {
+      "path": "unavailable-legacy-source-05",
+      "sha256": "c9ba99e590585fe77c15f4c67ce34af4f8917ed4e69de850732e05c447064ad4"
+    },
+    {
+      "path": "unavailable-legacy-source-06",
+      "sha256": "cfa78d38991e3a63b99eeea06f52dff7d22ded28ae3ba69fbb1a8502220d4a61"
+    },
+    {
+      "path": "unavailable-legacy-source-07",
+      "sha256": "9ce41c54155d97c41e51128796b6a01e0c355dcf20af13818abf48d0c369f6a3"
+    },
+    {
+      "path": "unavailable-legacy-source-08",
+      "sha256": "2967bd3bedee6357aeaa7261602d1a9f41489e805889048731b3c4c2733abef5"
+    },
+    {
+      "path": "unavailable-legacy-source-09",
+      "sha256": "d26de53e1bfd4bf12cf02e924050853fef7bae659d1b3208b227ca788d1e5d4a"
+    },
+    {
+      "path": "unavailable-legacy-source-10",
+      "sha256": "fa0f6106f49f8b78ad524ba33b5ad876e2b59fd8511e1230509b3f98478ffb58"
+    },
+    {
+      "path": "unavailable-legacy-source-11",
+      "sha256": "dd722a67c27830266d7512b38c633c2f4916437cfb910d48fc8b55c28a41587b"
+    },
+    {
+      "path": "unavailable-legacy-source-12",
+      "sha256": "089ce963e7412a38f9927f2d6e867b2ebe8968172b054ba3f8b743259425d1cd"
+    },
+    {
+      "path": "unavailable-legacy-source-13",
+      "sha256": "413d2662acdd3250ac3bd9cb4227fda02fc75e4d489fe1734734ecd0b6321f56"
+    },
+    {
+      "path": "unavailable-legacy-source-14",
+      "sha256": "c26681b1296d23a605543e51d94e52133d6c826f7360997b9683947042b442dc"
+    },
+    {
+      "path": "unavailable-legacy-source-15",
+      "sha256": "17ea55ef2ece6f80936de73074e3cdc70bd2824d421f3ecb4fb147d6a8c2064c"
+    },
+    {
+      "path": "unavailable-legacy-source-16",
+      "sha256": "960350c300c8a202cdac892344cf288f01a277031c2c9bed40546241e3f0379f"
+    },
+    {
+      "path": "unavailable-legacy-source-17",
+      "sha256": "48b3a44df74b821e0fdd590d4c075a31cea5b79eb4031712dd72d0d141f66704"
+    },
+    {
+      "path": "unavailable-legacy-source-18",
+      "sha256": "65c62cbd77062bbfd6ff389061ef863460e0e52d69fe0d8e870bd2ecd8aa04b0"
+    },
+    {
+      "path": "unavailable-legacy-source-19",
+      "sha256": "093203d1cfb2595130f6cb03608ae3a30ec33b7ef7070e78594f0603dcae87ba"
+    },
+    {
+      "path": "unavailable-legacy-source-20",
+      "sha256": "2440055c8ce3959d343a0c8ab05c8b925b00949b7f43c320274693054b047b83"
+    },
+    {
+      "path": "unavailable-legacy-source-21",
+      "sha256": "84c8eb2c319b19e1f6f58a4157fc251264cf061d8b7c561d41c29ebf28f15908"
+    },
+    {
+      "path": "unavailable-legacy-source-22",
+      "sha256": "047267d34bfaca665fb29125c16f943e2c7fa49e88d746ab0faa8413399135de"
+    },
+    {
+      "path": "unavailable-legacy-source-23",
+      "sha256": "be75ad14209b1780f4aa45865932705df90bcb35c93d3ea977f66bd71c66b9c8"
+    },
+    {
+      "path": "unavailable-legacy-source-24",
+      "sha256": "e54066645c1d644cff6b7c83444c1c69358b53b7b7018d3742aac1dfd99e8bca"
+    },
+    {
+      "path": "unavailable-legacy-source-25",
+      "sha256": "73d6811a8a03ea83f30014745feae1ce8516b4c4cffd26055a33e5e04f117311"
+    },
+    {
+      "path": "unavailable-legacy-source-26",
+      "sha256": "a25b01dbd9a165a2880d34467830a3186b19d6f34e447efb02ae45c386601ad2"
+    },
+    {
+      "path": "unavailable-legacy-source-27",
+      "sha256": "8ad4bddcda97ced144f0568ee5cbaf5fbee8e6ef628312e9d238a244056f0477"
+    },
+    {
+      "path": "unavailable-legacy-source-28",
+      "sha256": "dfabfcf2ad34cdb4c44751d02c3b82c5f98d2ff39b1c52749a51e5ad254bafb4"
+    },
+    {
+      "path": "unavailable-legacy-source-29",
+      "sha256": "23ba84ef70083fddbda77c559d1d9fe4ed3ddd6d6d3b2d76360fafae0c983847"
+    },
+    {
+      "path": "unavailable-legacy-source-30",
+      "sha256": "2bd9db04f323468c4675c21221b3cfb091161da139c7d7e3bf91759e488a880d"
+    }
+  ],
+  "models": {
+    "historically_recorded_count": 3,
+    "status": "Not opened/mined; private paths and model names omitted"
+  },
+  "clip_status": "Schematic generator and DXF references found. No standalone clip RFA found in searched source folders.",
+  "reused_board_profile": "lib/rt_board_profile.py is byte-for-byte the inspected DECKTOOLS board_profile.py",
+  "source_extensions_modified": false,
+  "current_reinspection": "Previously recorded FRAMETOOLS/DECKTOOLS sources unavailable locally; no new migration claimed.",
+  "public_redaction": "Absolute local paths and private model/project names omitted. Live workspace inventory is preserved privately."
+}

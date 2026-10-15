@@ -1,0 +1,16 @@
+{
+  "file": "C_LUS210_3d_Cad_MULT_Prod.rfa",
+  "bytes": 503808,
+  "sha256": "73c13c2d42eed0acb86caf36c90d4434e09bcab949e80084740add4efaabee8d",
+  "category": "Structural Connections",
+  "model": "LUS210",
+  "manufacturer": "Simpson Strong-Tie Company Inc.",
+  "source_url": "https://ssttoolbox.widen.net/content/hqsckahllb/original/C_LUS210_3d_Cad_MULT_Prod.rfa",
+  "inspection": "Cached RFA metadata inspected read-only; no manufacturer content modified",
+  "placement_type": "WorkPlaneBased",
+  "host_behavior": 0,
+  "work_plane_based": 1,
+  "adaptive": false,
+  "placement_evidence": "User-supplied Revit 2027 screenshot; private cache/log details omitted",
+  "successful_load_and_placement": "User Revit 2027 screenshot shows LUS210 instances; revised seating/orientation and structural suitability remain unverified"
+}

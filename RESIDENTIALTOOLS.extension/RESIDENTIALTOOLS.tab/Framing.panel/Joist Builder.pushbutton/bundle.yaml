@@ -1,0 +1,7 @@
+title: "Joist Builder"
+tooltip: "Place native Structural Framing joists, rims and optional blocking; coordinate direction with decking."
+author: "RESIDENTIALTOOLS"
+min_revit_version: 2025
+max_revit_version: 2027
+engine:
+  clean: true

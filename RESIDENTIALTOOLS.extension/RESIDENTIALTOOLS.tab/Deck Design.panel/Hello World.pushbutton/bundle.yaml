@@ -1,0 +1,5 @@
+title: "Hello World"
+tooltip: "Verify that the Deck Design panel and pyRevit ribbon are available."
+author: "RESIDENTIALTOOLS"
+min_revit_version: 2025
+max_revit_version: 2027

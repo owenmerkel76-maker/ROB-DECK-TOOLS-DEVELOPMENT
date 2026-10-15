@@ -1,0 +1,7 @@
+title: "Deck Designer"
+tooltip: "Create or rebuild a coordinated deck with individual boards, framing, blocking and optional clips."
+author: "RESIDENTIALTOOLS"
+min_revit_version: 2025
+max_revit_version: 2027
+engine:
+  clean: true

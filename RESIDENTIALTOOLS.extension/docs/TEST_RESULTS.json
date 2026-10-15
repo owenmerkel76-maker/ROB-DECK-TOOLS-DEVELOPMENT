@@ -1,0 +1,9 @@
+{
+  "version": "2026.10.14.1",
+  "date": "2026-10-14",
+  "tests_run": 103,
+  "successful": true,
+  "elapsed_seconds": 3.428,
+  "runtime": "CPython local tests with API/WPF stubs where required",
+  "native_revit_execution": "NOT RUN"
+}

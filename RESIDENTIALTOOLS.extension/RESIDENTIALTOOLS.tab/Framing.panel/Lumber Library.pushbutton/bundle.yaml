@@ -1,0 +1,7 @@
+title: "Lumber Library"
+tooltip: "Prototype: generate and test untreated 2x10, treated 2x10, and a generic wood I-joist in temporary Revit documents."
+author: "RESIDENTIALTOOLS"
+min_revit_version: 2025
+max_revit_version: 2027
+engine:
+  clean: true

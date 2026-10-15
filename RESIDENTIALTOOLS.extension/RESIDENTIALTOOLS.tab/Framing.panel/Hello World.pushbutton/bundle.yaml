@@ -1,0 +1,5 @@
+title: "Hello World"
+tooltip: "Show a Hello World message from the Framing panel."
+author: "RESIDENTIALTOOLS"
+min_revit_version: 2025
+max_revit_version: 2027

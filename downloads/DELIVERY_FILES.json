@@ -1,0 +1,408 @@
+{
+  "version": "2026.10.14.1",
+  "archive": "RESIDENTIALTOOLS-2026.10.14.1.zip",
+  "archive_sha256": "a23f3424dcd05c879af56bb76a322814e0abf562553c9c72113c2a59b7e263d9",
+  "files": [
+    {
+      "path": "RESIDENTIALTOOLS.extension/docs/IMPLEMENTATION_REPORT.md",
+      "bytes": 8527,
+      "sha256": "d326b46e400abceb14148157eacffb9d607ab7ce06b074c7652b264b9dfefd39"
+    },
+    {
+      "path": "RESIDENTIALTOOLS.extension/docs/LOCAL_VALIDATION.json",
+      "bytes": 2089,
+      "sha256": "0eee0d50d7edbbbf11d9905a9c134a4b3e832bf0690c6b00cf1207db15f201bd"
+    },
+    {
+      "path": "RESIDENTIALTOOLS.extension/docs/RESEARCH_AND_IMPROVEMENTS.md",
+      "bytes": 6068,
+      "sha256": "30253f6b69d478da1a48180ab0838e2aaa5f7aa1fb3d77c9e623c9effd004864"
+    },
+    {
+      "path": "RESIDENTIALTOOLS.extension/docs/REVIEW_2026-10-14.md",
+      "bytes": 9970,
+      "sha256": "97079df638fdc864a88a6fe307f4878bef58bed762892a4a586140c720a4d319"
+    },
+    {
+      "path": "RESIDENTIALTOOLS.extension/docs/REVIT_TEST_CHECKLIST.md",
+      "bytes": 12397,
+      "sha256": "1bd79f467dfc1392e1f0a9d6f85852705de1d22623beef962a6d58bcaae04840"
+    },
+    {
+      "path": "RESIDENTIALTOOLS.extension/docs/SIMPSON_BIM_LIBRARY.md",
+      "bytes": 4912,
+      "sha256": "2901cd62e1384b7a42850ca1fa94a3457858bf6c76f06367bd8d95af9b80d4fa"
+    },
+    {
+      "path": "RESIDENTIALTOOLS.extension/docs/SIMPSON_RFA_INSPECTION.json",
+      "bytes": 840,
+      "sha256": "cb50753fa9172044a57bee6a17b30894de15465a7121f691f2276d0f8a2b12a7"
+    },
+    {
+      "path": "RESIDENTIALTOOLS.extension/docs/SOURCE_INVENTORY.json",
+      "bytes": 5090,
+      "sha256": "5064966c2f6153d080b12fa1129145ad2e6f038d6f3ea9b2773e1bfa9304bff4"
+    },
+    {
+      "path": "RESIDENTIALTOOLS.extension/docs/TEST_RESULTS.json",
+      "bytes": 244,
+      "sha256": "7e0a35e82f57e578d4650da004b860b70167c20f3fbd8dab1d2b6b825a2b8d22"
+    },
+    {
+      "path": "RESIDENTIALTOOLS.extension/docs/TOOL_INVENTORY.md",
+      "bytes": 4179,
+      "sha256": "a0beb005c9ba343f36b9da20dce6b61d80495f5747c3cb1d1e119bf8ec58fd9d"
+    },
+    {
+      "path": "RESIDENTIALTOOLS.extension/docs/UI_RENDER_REVIEW.json",
+      "bytes": 454,
+      "sha256": "01fef8b33df02f8e5a294353b4f6d9811d649f01f915f5a8e3aeb8f5d70fdaa4"
+    },
+    {
+      "path": "RESIDENTIALTOOLS.extension/lib/rt_accessories.py",
+      "bytes": 15859,
+      "sha256": "9f9bbcb08df813d7abbf5fdd4887449e9513bcb99768f83a9fefda130c19339b"
+    },
+    {
+      "path": "RESIDENTIALTOOLS.extension/lib/rt_accessory_layout.py",
+      "bytes": 2370,
+      "sha256": "999aba8e8ed1c4dc81d71777796090a1c8c84e575a39c1d8e1821b8df4f82b8f"
+    },
+    {
+      "path": "RESIDENTIALTOOLS.extension/lib/rt_advanced_layout.py",
+      "bytes": 27968,
+      "sha256": "18ac5863af22e1a871fc82c3d8ec9aac3ca8e5af71d6acdab1236e2f2bfb67a2"
+    },
+    {
+      "path": "RESIDENTIALTOOLS.extension/lib/rt_board_profile.py",
+      "bytes": 2628,
+      "sha256": "c9ba99e590585fe77c15f4c67ce34af4f8917ed4e69de850732e05c447064ad4"
+    },
+    {
+      "path": "RESIDENTIALTOOLS.extension/lib/rt_clip.py",
+      "bytes": 1066,
+      "sha256": "d54e09e1a6079611eccfc7313f1a0bc1572a6ae06fe48a1109dbf4c59349c525"
+    },
+    {
+      "path": "RESIDENTIALTOOLS.extension/lib/rt_code_review.py",
+      "bytes": 5120,
+      "sha256": "fdb9bcf13f5a4dc63fa33748d3c1e68d375d3721caf030a8a698df29a4514afc"
+    },
+    {
+      "path": "RESIDENTIALTOOLS.extension/lib/rt_command.py",
+      "bytes": 16723,
+      "sha256": "ff9aaa7fd3b6e2738ace4313a33a1eec3542811b832cbac436fa553e4ac31568"
+    },
+    {
+      "path": "RESIDENTIALTOOLS.extension/lib/rt_forms.py",
+      "bytes": 3700,
+      "sha256": "c6add93df87c3768c158e177e7ce1d5b66e1a62a74a722498507e5b077f8b8f9"
+    },
+    {
+      "path": "RESIDENTIALTOOLS.extension/lib/rt_geometry.py",
+      "bytes": 11764,
+      "sha256": "b8f33bc738c297f885c78e486163b84f233f0efb5e19ae9dd4f8afe84b09e72c"
+    },
+    {
+      "path": "RESIDENTIALTOOLS.extension/lib/rt_layout.py",
+      "bytes": 29884,
+      "sha256": "91e21f74be019e66ce9165050d2b05c50fb94aced58068e0d6fa2697eb239106"
+    },
+    {
+      "path": "RESIDENTIALTOOLS.extension/lib/rt_manager.py",
+      "bytes": 8974,
+      "sha256": "2b7ae1d36a5c282730a20ba9baa04f46566d6291a38a84d3876ec352541963d1"
+    },
+    {
+      "path": "RESIDENTIALTOOLS.extension/lib/rt_materials.py",
+      "bytes": 11332,
+      "sha256": "8ca75aed8127bc2dfd478b548429bef10738dbf0803f74a4618be8367b1d72c8"
+    },
+    {
+      "path": "RESIDENTIALTOOLS.extension/lib/rt_presentation.py",
+      "bytes": 1533,
+      "sha256": "2fcaf83a9299558c37d0fd9a4c05df75da7b855797d3a2576d5c60c2826c7655"
+    },
+    {
+      "path": "RESIDENTIALTOOLS.extension/lib/rt_quantities.py",
+      "bytes": 3707,
+      "sha256": "bf7e3010108e65da00200644c940345a7b2888e619542492f9f8b17d0b16d004"
+    },
+    {
+      "path": "RESIDENTIALTOOLS.extension/lib/rt_revit.py",
+      "bytes": 43065,
+      "sha256": "f97a1eabe4d90eedb15294db378a4a5916906211cf5d783c7d760752cb51a064"
+    },
+    {
+      "path": "RESIDENTIALTOOLS.extension/lib/rt_simpson.py",
+      "bytes": 12514,
+      "sha256": "d14f12e820798844149e87f72d5a98d626482a864a5f9d899575d357bd60c9ac"
+    },
+    {
+      "path": "RESIDENTIALTOOLS.extension/lib/rt_simpson_catalog.py",
+      "bytes": 5054,
+      "sha256": "d64c9dc5a0a09e994d0827f8ad8a61f9c1be3dbff0cf0df43bcfa193dbaa2ced"
+    },
+    {
+      "path": "RESIDENTIALTOOLS.extension/lib/rt_ui.py",
+      "bytes": 27493,
+      "sha256": "b3a61585b69b3796370c60129a8b3fe7cc56933d8fd993b17e84678bdc6a8453"
+    },
+    {
+      "path": "RESIDENTIALTOOLS.extension/LUMBER_LIBRARY.md",
+      "bytes": 6489,
+      "sha256": "a030d85cbb47d8a7e3b5256a878d80a1e41d2ced14cc29d810552809073dec34"
+    },
+    {
+      "path": "RESIDENTIALTOOLS.extension/README.md",
+      "bytes": 3092,
+      "sha256": "984f1b3bdefb2922d5a579f0bc0db0ab54f95cda32d8ea56dc4525a7c61acc10"
+    },
+    {
+      "path": "RESIDENTIALTOOLS.extension/release.json",
+      "bytes": 231,
+      "sha256": "faefccaefd7499ad080dc02f465d606d96e5615dce5927c750cb9d04a24408f4"
+    },
+    {
+      "path": "RESIDENTIALTOOLS.extension/RESIDENTIALTOOLS.tab/bundle.yaml",
+      "bytes": 62,
+      "sha256": "595fe192c639974958d03d189b504cd7e7af238ae30c1d3c671fbdc13119e017"
+    },
+    {
+      "path": "RESIDENTIALTOOLS.extension/RESIDENTIALTOOLS.tab/Deck Design.panel/bundle.yaml",
+      "bytes": 84,
+      "sha256": "773bb9edc6c2a9832cceb6ed5cec4b8f5ac79a90271b3831b2053adef8aebc5b"
+    },
+    {
+      "path": "RESIDENTIALTOOLS.extension/RESIDENTIALTOOLS.tab/Deck Design.panel/Deck Designer.pushbutton/bundle.yaml",
+      "bytes": 230,
+      "sha256": "65c4ac18f144c8e397e232b48e2bbae3eaf55c839b67b697febb7fa73f47af9d"
+    },
+    {
+      "path": "RESIDENTIALTOOLS.extension/RESIDENTIALTOOLS.tab/Deck Design.panel/Deck Designer.pushbutton/icon.png",
+      "bytes": 221,
+      "sha256": "7376140d4389ba5ea11dd7603275164b3bf9ac0d0f806ab08e31fce0108d12d2"
+    },
+    {
+      "path": "RESIDENTIALTOOLS.extension/RESIDENTIALTOOLS.tab/Deck Design.panel/Deck Designer.pushbutton/script.py",
+      "bytes": 176,
+      "sha256": "5d226dfc7a40f3988bef88ddcb02a79dc190ffc849c4ecc8e498501b68e469d6"
+    },
+    {
+      "path": "RESIDENTIALTOOLS.extension/RESIDENTIALTOOLS.tab/Deck Design.panel/Deck Railings.pushbutton/bundle.yaml",
+      "bytes": 229,
+      "sha256": "8ad607c5bc50d3c8b64a746a160a4cf411a1b4ce08398a8a100e055603266472"
+    },
+    {
+      "path": "RESIDENTIALTOOLS.extension/RESIDENTIALTOOLS.tab/Deck Design.panel/Deck Railings.pushbutton/icon.png",
+      "bytes": 205,
+      "sha256": "4c7a76b725b691da2016ff9796d4842c567974d94eaeb1863dc5046d63e0e3f7"
+    },
+    {
+      "path": "RESIDENTIALTOOLS.extension/RESIDENTIALTOOLS.tab/Deck Design.panel/Deck Railings.pushbutton/script.py",
+      "bytes": 107,
+      "sha256": "d279b94e61c0ebc526a5b5f12083c12b3d7e0666ce826b56416e4c7bc581dba4"
+    },
+    {
+      "path": "RESIDENTIALTOOLS.extension/RESIDENTIALTOOLS.tab/Deck Design.panel/Deck Stairs.pushbutton/bundle.yaml",
+      "bytes": 225,
+      "sha256": "5c27e40faf03bd2c5704ad07a48f4ef18caba60adbf4615db69319f67a1e9d48"
+    },
+    {
+      "path": "RESIDENTIALTOOLS.extension/RESIDENTIALTOOLS.tab/Deck Design.panel/Deck Stairs.pushbutton/icon.png",
+      "bytes": 228,
+      "sha256": "69edd4389e6371eb231d9da43cbe2195e45be220129622950d86067d96f837b5"
+    },
+    {
+      "path": "RESIDENTIALTOOLS.extension/RESIDENTIALTOOLS.tab/Deck Design.panel/Deck Stairs.pushbutton/script.py",
+      "bytes": 105,
+      "sha256": "2e70effa7cc6e97f2fb90994c6b499d774f576b055cad2693e7a530c3c5949fd"
+    },
+    {
+      "path": "RESIDENTIALTOOLS.extension/RESIDENTIALTOOLS.tab/Deck Design.panel/Hello World.pushbutton/bundle.yaml",
+      "bytes": 175,
+      "sha256": "dc19e6fceabdc7adbc3b90531174f63ad298fbd1f0c933702fbe488937d84e75"
+    },
+    {
+      "path": "RESIDENTIALTOOLS.extension/RESIDENTIALTOOLS.tab/Deck Design.panel/Hello World.pushbutton/icon.png",
+      "bytes": 270,
+      "sha256": "2c7eedbe2ee1d45473724d76855e883564cbcafe2741e2d145c166c587fa97a4"
+    },
+    {
+      "path": "RESIDENTIALTOOLS.extension/RESIDENTIALTOOLS.tab/Deck Design.panel/Hello World.pushbutton/script.py",
+      "bytes": 259,
+      "sha256": "26634aac80ff1dee673612aff6cd90330da8d44beff216dc0e658e035f5ced13"
+    },
+    {
+      "path": "RESIDENTIALTOOLS.extension/RESIDENTIALTOOLS.tab/Deck Management.panel/bundle.yaml",
+      "bytes": 47,
+      "sha256": "437b985657212174b00cbd2571d4f3ac7c8c76e7cc18f82ac239998d34f59dc2"
+    },
+    {
+      "path": "RESIDENTIALTOOLS.extension/RESIDENTIALTOOLS.tab/Deck Management.panel/Deck Manager.pushbutton/bundle.yaml",
+      "bytes": 222,
+      "sha256": "5b66ce54d60bc8320334c81d10faa026f4634a6b14de46ea175c55cd780be030"
+    },
+    {
+      "path": "RESIDENTIALTOOLS.extension/RESIDENTIALTOOLS.tab/Deck Management.panel/Deck Manager.pushbutton/icon.png",
+      "bytes": 319,
+      "sha256": "5717b9e7de805a144954b8b17e007d223ed68bcab88a455ed844e38b8d7ea26d"
+    },
+    {
+      "path": "RESIDENTIALTOOLS.extension/RESIDENTIALTOOLS.tab/Deck Management.panel/Deck Manager.pushbutton/script.py",
+      "bytes": 165,
+      "sha256": "21a7b4630cf85e752968afd5e922119bc97a5ac3af8ddf1bd4fc77f360964c2c"
+    },
+    {
+      "path": "RESIDENTIALTOOLS.extension/RESIDENTIALTOOLS.tab/Deck Management.panel/Material List.pushbutton/bundle.yaml",
+      "bytes": 229,
+      "sha256": "5cb0e0559acb2174b57b361699f7e4cd3f3ad3485420cb74c535b052b78c917e"
+    },
+    {
+      "path": "RESIDENTIALTOOLS.extension/RESIDENTIALTOOLS.tab/Deck Management.panel/Material List.pushbutton/icon.png",
+      "bytes": 206,
+      "sha256": "b94508d646800e222676b618216d622c65bd748bf44c4b15f6da76e52c71a9e0"
+    },
+    {
+      "path": "RESIDENTIALTOOLS.extension/RESIDENTIALTOOLS.tab/Deck Management.panel/Material List.pushbutton/script.py",
+      "bytes": 96,
+      "sha256": "97809f94f2f397460a17305a781312fc06fe59976dd101faba9e23d75266e49e"
+    },
+    {
+      "path": "RESIDENTIALTOOLS.extension/RESIDENTIALTOOLS.tab/Framing.panel/bundle.yaml",
+      "bytes": 67,
+      "sha256": "24394dfa92f8d352230bba81dbbfd8db9d02272cf2b63ca73c030b664777ae5c"
+    },
+    {
+      "path": "RESIDENTIALTOOLS.extension/RESIDENTIALTOOLS.tab/Framing.panel/Hello World.pushbutton/bundle.yaml",
+      "bytes": 163,
+      "sha256": "f40f4539f76ef3416119603f29bae700a6026b201331f5956589d8d89b76ae3a"
+    },
+    {
+      "path": "RESIDENTIALTOOLS.extension/RESIDENTIALTOOLS.tab/Framing.panel/Hello World.pushbutton/icon.png",
+      "bytes": 270,
+      "sha256": "2c7eedbe2ee1d45473724d76855e883564cbcafe2741e2d145c166c587fa97a4"
+    },
+    {
+      "path": "RESIDENTIALTOOLS.extension/RESIDENTIALTOOLS.tab/Framing.panel/Hello World.pushbutton/script.py",
+      "bytes": 224,
+      "sha256": "9067671895a712657591d7a306622d663136591a38c254b55e5680e0cbcdbbc9"
+    },
+    {
+      "path": "RESIDENTIALTOOLS.extension/RESIDENTIALTOOLS.tab/Framing.panel/Joist Builder.pushbutton/bundle.yaml",
+      "bytes": 234,
+      "sha256": "a67d2742a0d77974d0761faac6904e868616bc5a410db7dc544299e1409ef3b0"
+    },
+    {
+      "path": "RESIDENTIALTOOLS.extension/RESIDENTIALTOOLS.tab/Framing.panel/Joist Builder.pushbutton/icon.png",
+      "bytes": 205,
+      "sha256": "45ea014b994ee4c1f3a4d62213cad250b7cf45442c224e44941e54a034e956df"
+    },
+    {
+      "path": "RESIDENTIALTOOLS.extension/RESIDENTIALTOOLS.tab/Framing.panel/Joist Builder.pushbutton/script.py",
+      "bytes": 162,
+      "sha256": "b03ac520480e0ae60dc63f69763ec50deead81c28783713df682d45060e8788e"
+    },
+    {
+      "path": "RESIDENTIALTOOLS.extension/RESIDENTIALTOOLS.tab/Framing.panel/Lumber Library.pushbutton/bundle.yaml",
+      "bytes": 248,
+      "sha256": "715250fff3f9b6105947e7c9cc5a6f6d4ecdb468f95acf5d0a10d81fd0729d54"
+    },
+    {
+      "path": "RESIDENTIALTOOLS.extension/RESIDENTIALTOOLS.tab/Framing.panel/Lumber Library.pushbutton/icon.png",
+      "bytes": 215,
+      "sha256": "b6eef53a58bea9b470abd490af201da5f7375ca957d661aa5a8164a07f29b008"
+    },
+    {
+      "path": "RESIDENTIALTOOLS.extension/RESIDENTIALTOOLS.tab/Framing.panel/Lumber Library.pushbutton/lib/lumber_catalog.py",
+      "bytes": 2548,
+      "sha256": "f6d2ae3fca66a91118164700d8c11048422449f5e2939318a66035c35f352f93"
+    },
+    {
+      "path": "RESIDENTIALTOOLS.extension/RESIDENTIALTOOLS.tab/Framing.panel/Lumber Library.pushbutton/lib/lumber_generator.py",
+      "bytes": 16373,
+      "sha256": "36deb381c8b16e1b680e76234f208d0a1488bf654c7525bd8a959222fa1aca58"
+    },
+    {
+      "path": "RESIDENTIALTOOLS.extension/RESIDENTIALTOOLS.tab/Framing.panel/Lumber Library.pushbutton/script.py",
+      "bytes": 3394,
+      "sha256": "ec25ae7d99b25778e37852513bce9732dcd31e60cbe494acbab67c14368104a1"
+    },
+    {
+      "path": "RESIDENTIALTOOLS.extension/resources/ResidentialSettings.xaml",
+      "bytes": 18957,
+      "sha256": "b26d47ea5fcc3e191b13dbc01e96d1cdd6b9460bc6663fbbd7a79ce7b4a8a700"
+    },
+    {
+      "path": "RESIDENTIALTOOLS.extension/resources/ToolOptions.xaml",
+      "bytes": 1417,
+      "sha256": "e948d0386c531d0a986f2966ef85922b99c20345b90ba73674ed03540ba52e0b"
+    },
+    {
+      "path": "RESIDENTIALTOOLS.extension/tests/test_accessories_quantities.py",
+      "bytes": 5435,
+      "sha256": "13de0adbf8a68e6db39ce0a189c72db3898a6005552f85f6295a9af1c23f2527"
+    },
+    {
+      "path": "RESIDENTIALTOOLS.extension/tests/test_convex_decks.py",
+      "bytes": 17939,
+      "sha256": "1d4644ab1807c723d695258b5659491cd01060e32804d8921cd7b6531ed69531"
+    },
+    {
+      "path": "RESIDENTIALTOOLS.extension/tests/test_hardware_families.py",
+      "bytes": 21128,
+      "sha256": "bfa6a6c5f844662409c5b2583b473b354b9a71ff2f643bb7f0cbe9ef7f84c877"
+    },
+    {
+      "path": "RESIDENTIALTOOLS.extension/tests/test_loaded_framing.py",
+      "bytes": 5536,
+      "sha256": "ccc6527f5daaed5887bd85498148ba5dcace33771400304cb90f0e18d0837397"
+    },
+    {
+      "path": "RESIDENTIALTOOLS.extension/tests/test_lumber_catalog.py",
+      "bytes": 3066,
+      "sha256": "6d88ce2ebabda530a85e94b06f5506ae04bdeca802df5aa12b5ef123352e73d3"
+    },
+    {
+      "path": "RESIDENTIALTOOLS.extension/tests/test_pa_code_review.py",
+      "bytes": 1618,
+      "sha256": "cc0051309c98d13c3f7148a6acb1f2af1999500773fc9f9970f28be52ef741fa"
+    },
+    {
+      "path": "RESIDENTIALTOOLS.extension/tests/test_residential_layout.py",
+      "bytes": 19640,
+      "sha256": "729acdccf29ec116e6a2b25042d0747120228245d21767b428ff1d505a3eff6f"
+    },
+    {
+      "path": "RESIDENTIALTOOLS.extension/tests/test_residential_transaction.py",
+      "bytes": 3383,
+      "sha256": "4e21d57a4febcdfbfdc6f3102ba8969c8ddabd46e70ec799fa6a26b2aae74fc1"
+    },
+    {
+      "path": "RESIDENTIALTOOLS.extension/tests/test_review_quality.py",
+      "bytes": 12396,
+      "sha256": "0fbbef7f11b2bb979109197903e1751e49df56522d4a1bbe779a684c0b652ff6"
+    },
+    {
+      "path": "RESIDENTIALTOOLS.extension/tests/test_simpson_catalog.py",
+      "bytes": 5405,
+      "sha256": "27d29f2f175b67aa436c01bb0599830c98ff29dffa6b4a538537e20162af1c0a"
+    },
+    {
+      "path": "RESIDENTIALTOOLS.extension/tools/preserved_files.json",
+      "bytes": 1818,
+      "sha256": "5d96165441e1079467d691fcdb01ab5c16c4faf1b8aee72c0f723596333735a3"
+    },
+    {
+      "path": "RESIDENTIALTOOLS.extension/tools/validate_extension.py",
+      "bytes": 17903,
+      "sha256": "59a6fffedcdfeb6d12c2166aa126b8ba399b65e6183550a9657f98e64d621494"
+    }
+  ],
+  "tests_passed": 103,
+  "api_2027_members_checked": 45,
+  "validation_errors": [],
+  "revit_execution": "NOT RUN by agent",
+  "runtime_files_identical_to_validated_live_source": 64,
+  "public_redactions": "Private diagnostic paths/model names and historical documentation path removed; no runtime changes."
+}

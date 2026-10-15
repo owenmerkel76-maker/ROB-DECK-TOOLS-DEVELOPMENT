@@ -1,0 +1,7 @@
+{
+  "name": "RESIDENTIALTOOLS",
+  "version": "2026.10.14.1",
+  "status": "field-test",
+  "revit_versions": [2025, 2027],
+  "host_verification": "Required in Revit; local checks do not establish family fit or structural capacity"
+}
